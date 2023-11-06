@@ -1,7 +1,8 @@
 
 # Simple_JWT_Authentication
 
-Simple JWT Authentiation using django rest framework.
+Simple JWT Authentiation using django rest framework. The 
+user can perform authentication using Postman API. 
 
 ## Installation
 
